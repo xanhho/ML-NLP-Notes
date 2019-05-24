@@ -48,11 +48,14 @@ https://arxiv.org/pdf/1603.01360.pdf, 2016.
 https://arxiv.org/pdf/1603.01354.pdf, 2016.
 
 # 4. CNN for NLP Papers
-- Convolutional Neural Networks for Sentence Classification,
-https://arxiv.org/pdf/1408.5882.pdf, 2014.
 - A Convolutional Neural Network for Modelling Sentences, 
-https://arxiv.org/pdf/1404.2188.pdf, 2014.
+https://arxiv.org/pdf/1404.2188.pdf, ACL 2014.
+
+- Convolutional Neural Networks for Sentence Classification,
+https://arxiv.org/pdf/1408.5882.pdf, EMNLP 2014.
+
 - Character-level Convolutional Networks for Text Classification, 
-https://papers.nips.cc/paper/5782-character-level-convolutional-networks-for-text-classification.pdf, 2015.
+https://papers.nips.cc/paper/5782-character-level-convolutional-networks-for-text-classification.pdf, NIPS 2015.
+
 - Very Deep Convolutional Networks for Text Classification, 
-https://www.aclweb.org/anthology/E17-1104, 2017.
+https://www.aclweb.org/anthology/E17-1104, EACL 2017.
