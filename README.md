@@ -1,6 +1,6 @@
-# ML-NLP-Notes
+# Awesome Deep Learning for NLP papers
 
-1. Attention Papers
+# 1. Attention Papers
 - Sequence to Sequence Learning with Neural Networks, 
 https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf, 2014.
 - Neural Machine Translation by Jointly Learning to Align and Translate, 
