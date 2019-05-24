@@ -60,5 +60,8 @@ https://papers.nips.cc/paper/5782-character-level-convolutional-networks-for-tex
 - Very Deep Convolutional Networks for Text Classification, 
 https://www.aclweb.org/anthology/E17-1104, EACL 2017.
 
+- Deep Pyramid Convolutional Neural Networks for Text Categorization, 
+https://aclweb.org/anthology/P17-1052, ACL 2017.
+
 - A Sensitivity Analysis of (and Practitioners’ Guide to) Convolutional Neural Networks for Sentence Classification,
 https://www.aclweb.org/anthology/I17-1026, IJCNLP 2017.
