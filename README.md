@@ -9,7 +9,7 @@ https://arxiv.org/pdf/1409.0473.pdf, 2015.
 https://arxiv.org/pdf/1508.04025.pdf, 2015.
 
 
-2. From Word2Vec to Pretrained Language Models Papers
+# 2. From Word2Vec to Pretrained Language Models Papers
 - Efficient Estimation of Word Representations in Vector Space, 
 https://arxiv.org/pdf/1301.3781.pdf, 2013.
 - Distributed Representations of Words and Phrases and their Compositionality, 
@@ -34,7 +34,7 @@ https://arxiv.org/pdf/1810.04805.pdf, 2018.
 https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf, 2019.
 
 
-3. Named Entity Recognition Papers
+# 3. Named Entity Recognition Papers
 - Bidirectional LSTM-CRF Models for Sequence Tagging, 
 https://arxiv.org/pdf/1508.01991.pdf, 9 Aug 2015.
 
