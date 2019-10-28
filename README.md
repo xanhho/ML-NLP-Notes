@@ -8,7 +8,8 @@ https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-netw
 - A Structured Self-Attentive Sentence Embedding, [paper](https://arxiv.org/pdf/1703.03130.pdf), ICLR 2017 (**Self-attention**).
 - Long Short-Term Memory-Networks for Machine Reading, [paper](https://www.aclweb.org/anthology/D16-1053.pdf), EMNLP 2016 (**Self-attention**).
 - A Decomposable Attention Model for Natural Language Inference, [paper](https://www.aclweb.org/anthology/D16-1244.pdf), EMNLP 2016 (**Self-attention**).
-- A Deep Reinforced Model for Abstractive Summarization, [paper](https://arxiv.org/pdf/1705.04304.pdf), 2017(**Self-attention**).
+- A Deep Reinforced Model for Abstractive Summarization, [paper](https://arxiv.org/pdf/1705.04304.pdf), 2017 (**Self-attention**).
+- Frustratingly Short Attention Spans in Neural Language Modeling, [paper](https://arxiv.org/pdf/1702.04521.pdf), ICLR 2017 (**Key-value attention**).
 
 
 
