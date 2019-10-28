@@ -10,6 +10,8 @@ https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-netw
 - A Decomposable Attention Model for Natural Language Inference, [paper](https://www.aclweb.org/anthology/D16-1244.pdf), EMNLP 2016 (**Self-attention**).
 - A Deep Reinforced Model for Abstractive Summarization, [paper](https://arxiv.org/pdf/1705.04304.pdf), 2017 (**Self-attention**).
 - Frustratingly Short Attention Spans in Neural Language Modeling, [paper](https://arxiv.org/pdf/1702.04521.pdf), ICLR 2017 (**Key-value attention**).
+- Attention is all you need, 
+https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf, NIPS 2017.
 
 
 
@@ -24,8 +26,6 @@ https://arxiv.org/pdf/1405.4053.pdf, 2014.
 https://www.aclweb.org/anthology/D14-1162, 2014.
 - Semi-supervised Sequence Learning, 
 https://papers.nips.cc/paper/5949-semi-supervised-sequence-learning.pdf, 2015.
-- Attention is all you need, 
-https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf, 2017.
 - Deep contextualized word representations, 
 https://aclweb.org/anthology/N18-1202, 2018.
 - Universal Language Model Fine-tuning for Text Classification, 
