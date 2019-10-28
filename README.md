@@ -3,10 +3,13 @@
 # 1. Attention Papers
 - Sequence to Sequence Learning with Neural Networks, 
 https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf, 2014.
-- Neural Machine Translation by Jointly Learning to Align and Translate, 
-https://arxiv.org/pdf/1409.0473.pdf, 2015.
-- Effective Approaches to Attention-based Neural Machine Translation, 
-https://arxiv.org/pdf/1508.04025.pdf, 2015.
+- Neural Machine Translation by Jointly Learning to Align and Translate, [paper](https://arxiv.org/pdf/1409.0473.pdf), 2015 (**Additive Attention**).
+- Effective Approaches to Attention-based Neural Machine Translation, [paper](https://arxiv.org/pdf/1508.04025.pdf), 2015 (**Multiplicative Attention**).
+- A Structured Self-Attentive Sentence Embedding, [paper](https://arxiv.org/pdf/1703.03130.pdf), ICLR 2017 (**Self-attention**).
+- Long Short-Term Memory-Networks for Machine Reading, [paper](https://www.aclweb.org/anthology/D16-1053.pdf), EMNLP 2016 (**Self-attention**).
+- A Decomposable Attention Model for Natural Language Inference, [paper](https://www.aclweb.org/anthology/D16-1244.pdf), EMNLP 2016 (**Self-attention**).
+- A Deep Reinforced Model for Abstractive Summarization, [paper](https://arxiv.org/pdf/1705.04304.pdf), 2017(**Self-attention**).
+
 
 
 # 2. From Word2Vec to Pretrained Language Models Papers
